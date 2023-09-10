@@ -1,8 +1,8 @@
-.card_title {
+.card__title {
     font-size: 14px;
 }
 
-.card_description {
+.card__description {
     font-size: 12px;
 }
 
@@ -28,11 +28,11 @@ img {
 }
 
 @media screen and (max-width: 768px) {
-    .card_title {
+    .card__title {
         font-size: 10px;
     }
 
-    .card_description {
+    .card__description {
         font-size: 8px;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -41,11 +41,11 @@ img {
 }
 
 @media screen and (max-width: 320px) {
-    .card_title {
+    .card__title {
         font-size: 10px;
     }
 
-    .card_description {
+    .card__description {
         display: none;
     }
 
