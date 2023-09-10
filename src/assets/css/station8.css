@@ -1,0 +1,38 @@
+
+.card_title{
+    font-size: 14px;
+}
+.card_description{
+    font-size: 12px;
+}
+img{
+    width: 100%;
+    margin-bottom: 14px;
+}
+.card{
+    color: #000000;
+    padding: 14px;
+    margin: 2%;
+    background-color: #ffffff;
+    width:24%;
+    height:23%;
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+body{
+    height: 2080px;
+    width: 1080px;
+    background-color: #c4c4c4;
+}
+header{
+    height: 50px;
+    background-color: #ffffff;
+}
+footer{
+    background-color: #ffffff;
+    height: 50px;
+}
